@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://tommyntnu.github.io/csb-yc2sqi/static/css/main.54dabaf6.chunk.css",
+    "main.js": "https://tommyntnu.github.io/csb-yc2sqi/static/js/main.fb122f49.chunk.js",
+    "main.js.map": "https://tommyntnu.github.io/csb-yc2sqi/static/js/main.fb122f49.chunk.js.map",
+    "runtime-main.js": "https://tommyntnu.github.io/csb-yc2sqi/static/js/runtime-main.f6504242.js",
+    "runtime-main.js.map": "https://tommyntnu.github.io/csb-yc2sqi/static/js/runtime-main.f6504242.js.map",
+    "static/css/2.af4e9669.chunk.css": "https://tommyntnu.github.io/csb-yc2sqi/static/css/2.af4e9669.chunk.css",
+    "static/js/2.c98fa1e0.chunk.js": "https://tommyntnu.github.io/csb-yc2sqi/static/js/2.c98fa1e0.chunk.js",
+    "static/js/2.c98fa1e0.chunk.js.map": "https://tommyntnu.github.io/csb-yc2sqi/static/js/2.c98fa1e0.chunk.js.map",
+    "index.html": "https://tommyntnu.github.io/csb-yc2sqi/index.html",
+    "static/css/2.af4e9669.chunk.css.map": "https://tommyntnu.github.io/csb-yc2sqi/static/css/2.af4e9669.chunk.css.map",
+    "static/css/main.54dabaf6.chunk.css.map": "https://tommyntnu.github.io/csb-yc2sqi/static/css/main.54dabaf6.chunk.css.map",
+    "static/js/2.c98fa1e0.chunk.js.LICENSE.txt": "https://tommyntnu.github.io/csb-yc2sqi/static/js/2.c98fa1e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6504242.js",
+    "static/css/2.af4e9669.chunk.css",
+    "static/js/2.c98fa1e0.chunk.js",
+    "static/css/main.54dabaf6.chunk.css",
+    "static/js/main.fb122f49.chunk.js"
+  ]
+}
